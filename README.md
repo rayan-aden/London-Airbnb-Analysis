@@ -25,6 +25,7 @@
 ## Dashboard
 #### Screenshot of the dashboard
 <img width="2066" height="1253" alt="image" src="https://github.com/user-attachments/assets/d14f73b2-c491-4a7c-a4bb-223fa09dae7d" />
+
 #### Link to Tableau Public interactive dasboard: https://public.tableau.com/app/profile/rayan.aden3405/viz/AirbnbTableau_17571013660220/AirbnbDashboard
 
 
